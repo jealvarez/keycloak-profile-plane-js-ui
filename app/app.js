@@ -61,6 +61,7 @@ function displayIdToken() {
 }
 
 function display(id) {
+  document.getElementById('welcome').style.display = 'none';
   document.getElementById('profile').style.display = 'none';
   document.getElementById('token').style.display = 'none';
   document.getElementById('idToken').style.display = 'none';
