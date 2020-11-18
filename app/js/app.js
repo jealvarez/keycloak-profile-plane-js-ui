@@ -29,7 +29,7 @@ function signOut() {
   docCookies.removeItem('KEYCLOAK_NETCORE_SESSIONC1', '/');
   docCookies.removeItem('KEYCLOAK_NETCORE_SESSIONC2', '/');
   keycloak.logout({
-    redirectUri: 'http://192.168.99.1:5300/app'
+    redirectUri: 'http://192.168.99.1:5300'
   });
 }
 
