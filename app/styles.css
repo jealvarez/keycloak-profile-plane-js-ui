@@ -1,0 +1,32 @@
+.token-content {
+    padding: 5px;
+    white-space: pre;
+    text-transform: none;
+}
+
+.container-content {
+    margin-top: 2em;
+}
+
+.hide {
+    display: none;
+}
+
+.footer {
+    color: black;
+    bottom: 0;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    background-color: #f8f9fa!important;
+    height: 50px;
+}
+
+.footer__legend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
