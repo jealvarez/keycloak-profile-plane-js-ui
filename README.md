@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## **Playground**
 
-- Add alias IP `192.168.99.1` to loopback inteface.
+- Add alias IP `192.168.99.1` to loopback inteface
 
 - Run application
 
